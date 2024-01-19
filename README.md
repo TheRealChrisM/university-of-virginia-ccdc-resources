@@ -7,6 +7,7 @@
 4. [Firefox](https://www.mozilla.org/)
 5. [strace](https://github.com/yunchih/static-binaries/raw/master/strace)
 6. [busybox](https://www.busybox.net/downloads/binaries/1.35.0-x86_64-linux-musl/busybox)
+7. [dropbear](https://github.com/ryanwoodsmall/static-binaries/raw/master/x86_64/dropbearmulti)
 
 ### Important Playlist (REQUIRED LISTENING)
 1. [Kill -9 - Monzy | Linux Rap](https://www.youtube.com/watch?v=0rG74rG_ubs)
