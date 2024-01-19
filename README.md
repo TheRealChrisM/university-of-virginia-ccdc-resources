@@ -4,6 +4,8 @@
 1. [Sysinternals](https://download.sysinternals.com/files/SysinternalsSuite.zip)
 2. [Process Hacker](https://sourceforge.net/projects/processhacker/files/latest/download)
 3. [sysmon-modular](https://github.com/olafhartong/sysmon-modular)
+4. [Firefox](https://www.mozilla.org/)
+5. [strace](https://github.com/yunchih/static-binaries/raw/master/strace)
 
 ### Important Playlist (REQUIRED LISTENING)
 1. [Kill -9 - Monzy | Linux Rap](https://www.youtube.com/watch?v=0rG74rG_ubs)
